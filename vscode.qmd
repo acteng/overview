@@ -1,0 +1,15 @@
+---
+format: gfm
+---
+
+# VS Code setup
+
+Install the following extensions:
+
+```{bash}
+# install the ms-vscode-remote.remote-wsl extension 
+# https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode-remote.remote-wsl
+# Python:
+code --install-extension ms-python.python
+```
