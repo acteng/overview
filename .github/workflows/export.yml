@@ -1,8 +1,7 @@
 name: Export issues
 on:
-  schedule:
-    # run every 8 hours
-    - cron:  '0 0,8,16 * * *'
+  issue_comment:
+    types: [created, deleted]
 jobs:
   deploy:
     name: Export issues to S3
