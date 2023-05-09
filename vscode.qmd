@@ -13,3 +13,54 @@ code --install-extension ms-vscode-remote.remote-wsl
 # Python:
 code --install-extension ms-python.python
 ```
+
+## Running code in development containers
+
+[Developing inside a Container](https://code.visualstudio.com/docs/remote/containers) is a way to ensure you have a consistent development environment.
+This is especially useful when working with data science code that has lots of dependencies, e.g. in R or Python.
+In Python, for example, dev containers ensure you have the same Python version and packages installed as your production environment.
+
+It helps to have a basic understanding of [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/).
+It also helps to have WSL 2 installed and running, as outlined here: https://docs.docker.com/desktop/windows/wsl/#develop-with-docker-and-wsl-2
+
+## Test run of dev containers
+
+To test out devcontainers in this repo, clone the acteng/overview repo and open the folder in VS Code, e.g. as follows from the command line:
+
+```{bash}
+#| eval: false
+gh repo clone acteng/overview
+code overview
+```
+
+Take a look at the .devcontainer.json file in the root of the repo:
+
+```{bash}
+#| eval: false
+code .devcontainer.json
+```
+
+You should see something that looks like this:
+
+```{json}
+{
+    "image": "geocompr/geocompr:suggests",
+    // "forwardPorts": [3000],
+    "customizations": {
+      // Configure properties specific to VS Code.
+      "vscode": {
+        // Add the IDs of extensions you want installed when the container is created.
+        "extensions": ["reditorsupport.r"]
+      }
+    }
+  }
+```
+
+That says "Use the geocompr/geocompr:suggests Docker image as the base image for this dev container, and install the reditorsupport.r extension in VS Code when the container is created."
+
+You should see a notification in the bottom right corner of VS Code that says "Folder contains a Dev Container configuration file. Reopen folder to develop in a container (learn more)."
+
+Click on the notification and select "Reopen in Container".
+
+
+ ` folder in VS Code and run the `Remote-Containers: Reopen in Container` command.
