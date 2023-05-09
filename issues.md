@@ -1,6 +1,6 @@
 Export of Github issues for [acteng/overview](https://github.com/acteng/overview).
 
-# [\#37 Issue](https://github.com/acteng/overview/issues/37) `open`: Test
+# [\#37 Issue](https://github.com/acteng/overview/issues/37) `closed`: Test
 
 #### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) opened issue at [2023-05-07 19:53](https://github.com/acteng/overview/issues/37):
 
@@ -11,7 +11,7 @@ Export of Github issues for [acteng/overview](https://github.com/acteng/overview
 
 -------------------------------------------------------------------------------
 
-# [\#36 Issue](https://github.com/acteng/overview/issues/36) `open`: Use GitHub Actions to convert issues to .md files
+# [\#36 Issue](https://github.com/acteng/overview/issues/36) `closed`: Use GitHub Actions to convert issues to .md files
 
 #### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) opened issue at [2023-05-07 18:09](https://github.com/acteng/overview/issues/36):
 
