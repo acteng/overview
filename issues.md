@@ -1,5 +1,49 @@
 Export of Github issues for [acteng/overview](https://github.com/acteng/overview).
 
+# [\#40 Issue](https://github.com/acteng/overview/issues/40) `open`: A local authority name to code mapper
+
+#### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) opened issue at [2023-05-09 16:42](https://github.com/acteng/overview/issues/40):
+
+It looks like we may have to routinely map local authority names to the 3 letter codes used within active travel England. It would be very nice to develop a simple tool that does this mapping simply and robustly.
+
+I envisage it taking at least two arguments: a version and an input string. The version would map to a file (internal to package) that contains local authority name-code mappings where each time it has changed we increment a new version number (would recommend using CalVer). The input string would be for a local authority name on which we either exact (or fuzzy match) to a code. Values that don't match would return NA or None.
+
+
+
+
+-------------------------------------------------------------------------------
+
+# [\#39 Issue](https://github.com/acteng/overview/issues/39) `open`: An actengdev blog
+
+#### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) opened issue at [2023-05-09 16:36](https://github.com/acteng/overview/issues/39):
+
+It'd be really nice to run a simple blog via GitHub pages to do occasional posts about the work we're doing from a more technical side.
+
+We can do this using GitHub pages directly using Jekyll or using Quarto.
+
+#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) commented at [2023-05-09 16:39](https://github.com/acteng/overview/issues/39#issuecomment-1540512699):
+
+I already have a few ideas for posts; I'd love a place to put them!
+
+#### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) commented at [2023-05-09 17:12](https://github.com/acteng/overview/issues/39#issuecomment-1540558704):
+
+Perfect I will try and sort this out this week
+
+
+-------------------------------------------------------------------------------
+
+# [\#38 Issue](https://github.com/acteng/overview/issues/38) `closed`: Setup R on VS Code instructions
+
+#### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) opened issue at [2023-05-09 11:09](https://github.com/acteng/overview/issues/38):
+
+![image](https://github.com/acteng/overview/assets/122299965/ead3eb08-bc40-4a8a-a96d-2111088e9547)
+
+
+
+
+
+-------------------------------------------------------------------------------
+
 # [\#37 Issue](https://github.com/acteng/overview/issues/37) `closed`: Test
 
 #### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) opened issue at [2023-05-07 19:53](https://github.com/acteng/overview/issues/37):
