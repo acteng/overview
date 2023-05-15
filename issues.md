@@ -479,6 +479,10 @@ Wow, impressive! Also on this topic, @KitAllwinter is on the case I believe, get
 https://twitter.com/giswqs/status/1649416858645282822
 Could be worth trying this on any good raster imagery we've got for roads
 
+#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) commented at [2023-05-14 18:17](https://github.com/acteng/overview/issues/19#issuecomment-1546966913):
+
+http://kuanbutts.com/2018/02/22/street-widths/ could be applied to OS parcels or OSM building footprints in some cases
+
 
 -------------------------------------------------------------------------------
 
