@@ -1,5 +1,20 @@
 Export of Github issues for [acteng/overview](https://github.com/acteng/overview).
 
+# [\#41 Issue](https://github.com/acteng/overview/issues/41) `open`: Hook up AMAT
+
+#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) opened issue at [2023-05-25 15:37](https://github.com/acteng/overview/issues/41):
+
+In a call with Adrian, he brought up the idea of running AMAT from ATIP. This is also an idea I've heard earlier. AMAT is https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1102781/active-model-appraisal-toolkit-user-guidance.pdf (I dunno if this is the latest version of this doc!)
+
+Skimming through the doc, we can automate many of the input steps, like area lookup, trip count before from PCT. Maybe we can develop easy methods for the "comparative study" option of the "Number of trips with the proposed intervention" part.
+
+We could generate the current Excel file with the values prefilled, and also show a user-friendly summary in the web browser.
+
+
+
+
+-------------------------------------------------------------------------------
+
 # [\#40 Issue](https://github.com/acteng/overview/issues/40) `open`: A local authority name to code mapper
 
 #### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) opened issue at [2023-05-09 16:42](https://github.com/acteng/overview/issues/40):
