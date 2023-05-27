@@ -28,25 +28,6 @@ I envisage it taking at least two arguments: a version and an input string. The 
 
 -------------------------------------------------------------------------------
 
-# [\#39 Issue](https://github.com/acteng/overview/issues/39) `open`: An actengdev blog
-
-#### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) opened issue at [2023-05-09 16:36](https://github.com/acteng/overview/issues/39):
-
-It'd be really nice to run a simple blog via GitHub pages to do occasional posts about the work we're doing from a more technical side.
-
-We can do this using GitHub pages directly using Jekyll or using Quarto.
-
-#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) commented at [2023-05-09 16:39](https://github.com/acteng/overview/issues/39#issuecomment-1540512699):
-
-I already have a few ideas for posts; I'd love a place to put them!
-
-#### <img src="https://avatars.githubusercontent.com/u/20887250?u=e9b26a3a637065c8c3f2fd6066ebd87dc8f0466e&v=4" width="50">[Sparrow0hawk](https://github.com/Sparrow0hawk) commented at [2023-05-09 17:12](https://github.com/acteng/overview/issues/39#issuecomment-1540558704):
-
-Perfect I will try and sort this out this week
-
-
--------------------------------------------------------------------------------
-
 # [\#38 Issue](https://github.com/acteng/overview/issues/38) `closed`: Setup R on VS Code instructions
 
 #### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) opened issue at [2023-05-09 11:09](https://github.com/acteng/overview/issues/38):
