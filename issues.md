@@ -829,7 +829,15 @@ My thinking: low level foundation to be used as building block could be handy an
 
 Active Travel Uptake model to supersede PCT with:
 
-- [ ] Representation of active travel to public transport
+- [ ] Representation of other active travel trip/stage types:
+  - [ ] Active stages as part of journeys involving public transport
+  - [ ] Trips to school, covered in #2 
+  - [ ] Travel to work
+  - [ ] Recreational trips
+  - [ ] Leisure trips
+  - [ ] Social trips
+  - [ ] Shopping
+  - [ ] Etc
 - [ ] Walking, possibly wheeling, cycling (PCT only has walking)
 - [ ] Estimate of route quality for priortisation
 
