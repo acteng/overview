@@ -843,7 +843,9 @@ Active Travel Uptake model to supersede PCT with:
 
 
 
+#### <img src="https://avatars.githubusercontent.com/u/1825120?u=461318c239e721dc40668e4b0ce6cc47731328ac&v=4" width="50">[Robinlovelace](https://github.com/Robinlovelace) commented at [2023-07-20 16:03](https://github.com/acteng/overview/issues/3#issuecomment-1644194202):
 
+Thoughts on this from other project FYI and heads-up on promising open OS input dataset @stholder3: https://github.com/nptscot/npt/issues/196
 
 
 -------------------------------------------------------------------------------
