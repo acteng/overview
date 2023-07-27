@@ -1,5 +1,30 @@
 Export of Github issues for [acteng/overview](https://github.com/acteng/overview).
 
+# [\#43 Issue](https://github.com/acteng/overview/issues/43) `open`: AT to PT Analysis
+
+#### <img src="https://avatars.githubusercontent.com/u/5583778?u=e70a3bd5061fcbc83ee567c76ef152019b3ddd7d&v=4" width="50">[cmconlan](https://github.com/cmconlan) opened issue at [2023-07-26 17:06](https://github.com/acteng/overview/issues/43):
+
+Intersect AT isochrone with PT nodes, and develop a measurement for the utlity of the PT nodes. For instance a node with a single infrequent bus going away from the city centre may not be very useful. A node with high frequency going towards clusters of activity will be more useful. 
+Different AT modes are likley to link to different PT modes. For instance walking or wheeling to bus stops, and walking, wheeling or cycling to train stations.
+
+Can be use to measure potential impact of AT intervention, allowing a measurement of expanded access provided by a proposed intervention.
+
+
+
+
+-------------------------------------------------------------------------------
+
+# [\#42 Issue](https://github.com/acteng/overview/issues/42) `open`: AT Isochrone Function
+
+#### <img src="https://avatars.githubusercontent.com/u/5583778?u=e70a3bd5061fcbc83ee567c76ef152019b3ddd7d&v=4" width="50">[cmconlan](https://github.com/cmconlan) opened issue at [2023-07-26 17:02](https://github.com/acteng/overview/issues/42):
+
+A function to generate an isochrone based on different AT modes. The isochrone would be dependent on an "AT Access Cost" which would weigh routes in OSM based upon aspects such as perceived safety, comfort etc. Perception of safety can vary by user and user profiles would changes the implementation of the access cost function.
+
+
+
+
+-------------------------------------------------------------------------------
+
 # [\#41 Issue](https://github.com/acteng/overview/issues/41) `open`: Hook up AMAT
 
 #### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) opened issue at [2023-05-25 15:37](https://github.com/acteng/overview/issues/41):
