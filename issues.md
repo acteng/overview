@@ -564,7 +564,7 @@ Incoming and outgoing e-mail messages are routinely monitored for compliance wit
 
 -------------------------------------------------------------------------------
 
-# [\#17 Issue](https://github.com/acteng/overview/issues/17) `open`: ATIP v2
+# [\#17 Issue](https://github.com/acteng/overview/issues/17) `closed`: ATIP v2
 **Labels**: `Data Products and Tools`
 
 
@@ -579,7 +579,7 @@ Building on v1 functionality in #1 which is done.
 
 -------------------------------------------------------------------------------
 
-# [\#16 Issue](https://github.com/acteng/overview/issues/16) `open`: App to count traffic
+# [\#16 Issue](https://github.com/acteng/overview/issues/16) `closed`: App to count traffic
 **Labels**: `blueskies`
 
 
@@ -689,7 +689,7 @@ Worth checking around with StreetComplete and similar projects; the OSM communit
 
 -------------------------------------------------------------------------------
 
-# [\#11 Issue](https://github.com/acteng/overview/issues/11) `open`: Get census data for contextual layers
+# [\#11 Issue](https://github.com/acteng/overview/issues/11) `closed`: Get census data for contextual layers
 **Labels**: `project idea`
 
 
