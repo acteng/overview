@@ -801,7 +801,9 @@ This is a big project that should be split up. For now opening for ideas. Existi
 ![image](https://user-images.githubusercontent.com/122299965/222699846-9d7b1075-695c-495c-951b-942503b5bbc0.png)
 -->
 
+#### <img src="https://avatars.githubusercontent.com/u/1825120?u=461318c239e721dc40668e4b0ce6cc47731328ac&v=4" width="50">[Robinlovelace](https://github.com/Robinlovelace) commented at [2023-08-03 08:34](https://github.com/acteng/overview/issues/6#issuecomment-1663529574):
 
+First priority on this: how good is the existing network. Heads-up @anerv I think using your approach outlined and with reproducible code here https://github.com/anerv/BikeDNA could be a really good basis for assessing quality of OSM data across England. Interested in our plans? No immediate plans to start on this but thought you may be interested in potential applications of your work internationally. Many thanks for documenting all the steps so clearly and ensuring reproducibility, could greatly help our work!
 
 
 -------------------------------------------------------------------------------
