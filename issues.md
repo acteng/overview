@@ -805,6 +805,10 @@ This is a big project that should be split up. For now opening for ideas. Existi
 
 First priority on this: how good is the existing network. Heads-up @anerv I think using your approach outlined and with reproducible code here https://github.com/anerv/BikeDNA could be a really good basis for assessing quality of OSM data across England. Interested in our plans? No immediate plans to start on this but thought you may be interested in potential applications of your work internationally. Many thanks for documenting all the steps so clearly and ensuring reproducibility, could greatly help our work!
 
+#### <img src="https://avatars.githubusercontent.com/u/47894335?u=84ff541f24f312d5662c1e554656130e4a5ecb2e&v=4" width="50">[anerv](https://github.com/anerv) commented at [2023-08-07 10:56](https://github.com/acteng/overview/issues/6#issuecomment-1667638956):
+
+hi Robin! Very cool if BikeDNA is of any use - would love to hear more if you decide to use some of our work for the quality assessment. We will (hopefully) have a preprint/paper + corresponding code out on the quality of the Danish OSM data during the fall, might also be useful for a UK quality assessment.
+
 
 -------------------------------------------------------------------------------
 
