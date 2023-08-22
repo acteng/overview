@@ -20,7 +20,9 @@ Can be use to measure potential impact of AT intervention, allowing a measuremen
 
 A function to generate an isochrone based on different AT modes. The isochrone would be dependent on an "AT Access Cost" which would weigh routes in OSM based upon aspects such as perceived safety, comfort etc. Perception of safety can vary by user and user profiles would changes the implementation of the access cost function.
 
+#### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) commented at [2023-08-21 12:56](https://github.com/acteng/overview/issues/42#issuecomment-1686278613):
 
+Big +1 to this. As you say different people have different willingness to walk/wheel/cycle on different bits of infrastructure so in reality I suspect the most useful output would be multiple isochrones and then a summary which could aim to capture some kind of average.
 
 
 -------------------------------------------------------------------------------
@@ -849,7 +851,9 @@ What should this be? A Python package, R package, Rust crate, set of scripts, re
 My thinking: low level foundation to be used as building block could be handy and Rust seems good for that.
 
 
+#### <img src="https://avatars.githubusercontent.com/u/122299965?u=21018790800d5cd255333e398514364480e0516c&v=4" width="50">[robinlovelace-ate](https://github.com/robinlovelace-ate) commented at [2023-08-21 12:58](https://github.com/acteng/overview/issues/4#issuecomment-1686281792):
 
+More recently discussed here: https://github.com/dabreegster/routing-engines/issues/7
 
 
 -------------------------------------------------------------------------------
