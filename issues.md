@@ -811,6 +811,10 @@ First priority on this: how good is the existing network. Heads-up @anerv I thin
 
 hi Robin! Very cool if BikeDNA is of any use - would love to hear more if you decide to use some of our work for the quality assessment. We will (hopefully) have a preprint/paper + corresponding code out on the quality of the Danish OSM data during the fall, might also be useful for a UK quality assessment.
 
+#### <img src="https://avatars.githubusercontent.com/u/1825120?u=461318c239e721dc40668e4b0ce6cc47731328ac&v=4" width="50">[Robinlovelace](https://github.com/Robinlovelace) commented at [2023-08-25 05:36](https://github.com/acteng/overview/issues/6#issuecomment-1692787895):
+
+Relevant classification system from @jakecoppinger: https://fosstodon.org/@jake@mastodon.jakecoppinger.com/110948124434182786
+
 
 -------------------------------------------------------------------------------
 
