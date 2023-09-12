@@ -506,6 +506,14 @@ Could be worth trying this on any good raster imagery we've got for roads
 
 http://kuanbutts.com/2018/02/22/street-widths/ could be applied to OS parcels or OSM building footprints in some cases
 
+#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) commented at [2023-09-11 17:26](https://github.com/acteng/overview/issues/19#issuecomment-1714297573):
+
+https://github.com/Craig-Robson/footpath_width_analysis
+
+#### <img src="https://avatars.githubusercontent.com/u/1664407?u=bb93d80353239826daf91ba671c44f180e344097&v=4" width="50">[dabreegster](https://github.com/dabreegster) commented at [2023-09-11 17:31](https://github.com/acteng/overview/issues/19#issuecomment-1714305259):
+
+An example pinch point to detect at The County pub in Gosforth: https://www.google.com/maps/@55.0039311,-1.6202344,3a,75y,201.51h,88.83t/data=!3m7!1e1!3m5!1s0GHZnE1Pf6HxlUh_xMptkg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0GHZnE1Pf6HxlUh_xMptkg%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D284.71042%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu
+
 
 -------------------------------------------------------------------------------
 
